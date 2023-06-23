@@ -1,0 +1,242 @@
+[
+    {
+        "id": "lespaul-01",
+        "titulo": "Les Paul Tobacco Burst",
+        "imagen": "./img/lespaul/1.jpg",
+        "categoria": {
+            "nombre": "Les Paul",
+            "id": "lespaul"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "lespaul-02",
+        "titulo": "Les Paul Junior P90",
+        "imagen": "./img/lespaul/2.jpg",
+        "categoria": {
+            "nombre": "Les Paul",
+            "id": "lespaul"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "lespaul-03",
+        "titulo": "Les Paul Sunburst",
+        "imagen": "./img/lespaul/3.png",
+        "categoria": {
+            "nombre": "Les Paul",
+            "id": "lespaul"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "lespaul-04",
+        "titulo": "Les Paul Tobacco Burst P90",
+        "imagen": "./img/lespaul/4.png",
+        "categoria": {
+            "nombre": "Les Paul",
+            "id": "lespaul"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "lespaul-05",
+        "titulo": "Les Paul Special P90",
+        "imagen": "./img/lespaul/5.png",
+        "categoria": {
+            "nombre": "Les Paul",
+            "id": "lespaul"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "lespaul-06",
+        "titulo": "Les Paul Junior P90 V2",
+        "imagen": "./img/lespaul/2.jpg",
+        "categoria": {
+            "nombre": "Les Paul",
+            "id": "lespaul"
+        },
+        "precio": 145000
+    },
+    {
+        "id": "lespaul-07",
+        "titulo": "Les Paul Tobacco Burst P90 V2",
+        "imagen": "./img/lespaul/4.png",
+        "categoria": {
+            "nombre": "Les Paul",
+            "id": "lespaul"
+        },
+        "precio": 110000
+    },
+    {
+        "id": "lespaul-08",
+        "titulo": "Les Paul Slash AFD",
+        "imagen": "./img/lespaul/3.png",
+        "categoria": {
+            "nombre": "Les Paul",
+            "id": "lespaul"
+        },
+        "precio": 300000
+    },
+    {
+        "id": "SG-01",
+        "titulo": "SG Pelham Blue con Vibrola",
+        "imagen": "./img/sg/1.jpg",
+        "categoria": {
+            "nombre": "SG",
+            "id": "sg"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "SG-02",
+        "titulo": "SG White 3 Pickup con Vibrola",
+        "imagen": "./img/sg/2.jpg",
+        "categoria": {
+            "nombre": "SG",
+            "id": "sg"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "SG-03",
+        "titulo": "SG Double Neck Cherry Red",
+        "imagen": "./img/sg/3.jpg",
+        "categoria": {
+            "nombre": "SG",
+            "id": "sg"
+        },
+        "precio": 300000
+    },
+    {
+        "id": "SG-04",
+        "titulo": "SG Surf Green 3 Pickup con Vibrola",
+        "imagen": "./img/sg/4.jpg",
+        "categoria": {
+            "nombre": "SG",
+            "id": "sg"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "SG-05",
+        "titulo": "SG Cherry Red con Vibrola",
+        "imagen": "./img/sg/5.jpg",
+        "categoria": {
+            "nombre": "SG",
+            "id": "sg"
+        },
+        "precio": 300000
+    },
+    {
+        "id": "SG-06",
+        "titulo": "SG Sg Junior con P90",
+        "imagen": "./img/sg/6.jpg",
+        "categoria": {
+            "nombre": "SG",
+            "id": "sg"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "SG-07",
+        "titulo": "SG Special Pelham Blue P90",
+        "imagen": "./img/sg/7.jpg",
+        "categoria": {
+            "nombre": "SG",
+            "id": "sg"
+        },
+        "precio": 130000
+    },
+    {
+        "id": "SG-08",
+        "titulo": "SG Pelham Blue con Vibrola",
+        "imagen": "./img/sg/1.jpg",
+        "categoria": {
+            "nombre": "SG",
+            "id": "sg"
+        },
+        "precio": 250000
+    },
+    {
+        "id": "Flyingv-01",
+        "titulo": "Flying V Ebony",
+        "imagen": "./img/flyingv/1.jpg",
+        "categoria": {
+            "nombre": "Flyingv",
+            "id": "flyingv"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "Flyingv-02",
+        "titulo": "Flying V Antique Natural",
+        "imagen": "./img/flyingv/2.jpg",
+        "categoria": {
+            "nombre": "Flyingv",
+            "id": "flyingv"
+        },
+        "precio": 170000
+    },
+    {
+        "id": "Flyingv-03",
+        "titulo": "Flying V Olive Drab",
+        "imagen": "./img/flyingv/3.jpg",
+        "categoria": {
+            "nombre": "Flyingv",
+            "id": "flyingv"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "Flyingv-04",
+        "titulo": "Flying V Korina",
+        "imagen": "./img/flyingv/4.jpg",
+        "categoria": {
+            "nombre": "Flyingv",
+            "id": "flyingv"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "Flyingv-05",
+        "titulo": "Flying V Korina Black Pickguard",
+        "imagen": "./img/flyingv/5.jpg",
+        "categoria": {
+            "nombre": "Flyingv",
+            "id": "flyingv"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "Flyingv-06",
+        "titulo": "Flying V Walnut",
+        "imagen": "./img/flyingv/6.jpg",
+        "categoria": {
+            "nombre": "Flyingv",
+            "id": "flyingv"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "Flyingv-07",
+        "titulo": "Flying V Ebony Black",
+        "imagen": "./img/flyingv/1.jpg",
+        "categoria": {
+            "nombre": "Flyingv",
+            "id": "flyingv"
+        },
+        "precio": 180000
+    },
+    {
+        "id": "Flyingv-08",
+        "titulo": "Flying V Antique Natural",
+        "imagen": "./img/flyingv/2.jpg",
+        "categoria": {
+            "nombre": "Flyingv",
+            "id": "flyingv"
+        },
+        "precio": 130000
+    }
+]
